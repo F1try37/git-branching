@@ -3,9 +3,14 @@ public class Main {
         System.out.println("Это добавлено в ветке main");
         System.out.println(add(1, 2));
         System.out.println("Hello World!");
+        System.out.println(sub(2, 1));
     }
 
     private static int add(int x, int y) {
         return x + y;
+    }
+
+    private static int sub(int x, int y) {
+        return x - y;
     }
 }
