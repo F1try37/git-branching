@@ -4,6 +4,7 @@ public class Main {
         System.out.println(add(1, 2));
         System.out.println("Hello World!");
         System.out.println(sub(2, 1));
+        System.out.println("Goodbye!");
     }
 
     private static int add(int x, int y) {
