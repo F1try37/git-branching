@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println(sub(2, 1));
         System.out.println("Goodbye!");
+        System.out.println("Last change");
     }
 
     private static int add(int x, int y) {
